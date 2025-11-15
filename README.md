@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EHTK1
-- 👀 I’m interested in devleoping skills in the tech world
+- 👀 I’m interested in developing skills in the tech world
 - 🌱 I’m currently learning AI, coding tools and no code tools
 - 💞️ I’m looking to collaborate on developing a new business
 - 📫 How to reach me : just via Github
